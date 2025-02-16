@@ -1,4 +1,4 @@
-# AIM
+# AIM: AI Model Modulation with Logits Redistribution
 
 This repository contains the implementations of our paper:  **"AI Model Modulation with Logits Redistribution"**.
 
