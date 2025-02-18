@@ -132,7 +132,10 @@ tools/perturbation/evaluation.py --cfg configs/ade20k.yaml
 | `infer_perturbation.py` | Visualization pipeline with perturbation controls         |
 
 
-## NLP Task: Modulation Modultion during Text Generation
+
+
+
+# NLP Task: Model Modulation during Text Generation
 We tailored the OpenCompass framework to include a new class `HuggingFaceNoiseModel` which introduces the capability to inject Gaussian noise into the logits during the generation process of a Hugging Face model, thus enable model modulation for AI Models.  
 
 ## Key Modifications
